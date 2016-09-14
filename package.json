@@ -1,0 +1,15 @@
+{
+  "name": "npm-zhangran",
+  "version": "1.0.3",
+  "description": "lala",
+  "main": "main.js",
+  "bin":"./bin/ran",
+  "scripts": {
+    "test": "node"
+  },
+  "keywords": [
+    "install"
+  ],
+  "author": "zhangran",
+  "license": "ISC"
+}
